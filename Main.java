@@ -8,7 +8,7 @@
 public class Main{
      
     public static void main (string args[]){
-        kalkulator kalkul = new kalkulator();
+        //kalkulator kalkul = new kalkulator();
         
         kalkul.name = "operator ";
         
