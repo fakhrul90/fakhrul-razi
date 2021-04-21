@@ -1,7 +1,7 @@
 /**
  * class Main 
  *
- * @author Fakhrul Razo
+ * @author Fakhrul Razi
  * @version 0.1
  */
 public class Main
