@@ -1,7 +1,7 @@
 /**
  * class CalculatorProgrammer 
  *
- * @author dientaufan
+ * @author Fakhrul Razi
  * @version 0.1
  */
 public class CalculatorProgrammer extends Calculator
